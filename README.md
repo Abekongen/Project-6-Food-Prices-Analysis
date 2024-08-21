@@ -62,7 +62,7 @@ Based on the insights gained, recommendations were proposed to optimize pricing 
 - A notable dispersion in average prices was observed with variations in discount amounts, indicating that products with higher discounts tend to have lower average prices.
   
 ![image_480](https://github.com/user-attachments/assets/47626eb3-92e2-471c-8185-6c8ba6e01e70)
-![image_480](https://github.com/user-attachments/assets/aaa5f05d-02ef-4aef-a1b6-62493234426a)
+
 
 ### Product-Specific Pricing
 - **Milk** and **Bread** emerged as the most expensive items within their respective categories, with average prices peaking at 39.34 (19.88%).

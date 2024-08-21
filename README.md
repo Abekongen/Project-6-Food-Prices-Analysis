@@ -22,6 +22,12 @@ This report analyzes the pricing dynamics of various grocery products across dif
 ## Dataset
 The dataset includes pricing information for grocery products categorized into Beverages, Dairy, Fruits, Grains, Meat, and Snacks. It provides details on average prices, discounts, and regional sales performance over different quarters in various stores.
 
+# CSV and PowerBI File 
+
+CSV: https://drive.google.com/file/d/1Lz0v9ACqHFrBSus53P0Ng_OTycEkHaE7/view?usp=drive_link
+
+PowerBI: https://drive.google.com/file/d/1z0BYhcwXk2kSOet7IDJ-7nFFb9GCKK5B/view?usp=drive_link
+
 ## Methodology
 
 ### Ask
@@ -53,31 +59,59 @@ Based on the insights gained, recommendations were proposed to optimize pricing 
 ## Findings / What We Discovered
 
 ![image_480](https://github.com/user-attachments/assets/a3dd7271-7369-486f-b01f-7bd103989cc9)
-![image_480](https://github.com/user-attachments/assets/d82026cf-1358-4026-bd73-78cc22a8da53)
+
+
 
 ### Average Prices by Category
 - **Grains** had the highest average price (12), followed closely by **Beverages** (11), while **Snacks** and **Meat** recorded lower averages (10).
 
+
+
+![image_480](https://github.com/user-attachments/assets/d82026cf-1358-4026-bd73-78cc22a8da53)
+
+
+
 ### Discount Influences
 - A notable dispersion in average prices was observed with variations in discount amounts, indicating that products with higher discounts tend to have lower average prices.
-  
+ 
+
+ 
 ![image_480](https://github.com/user-attachments/assets/47626eb3-92e2-471c-8185-6c8ba6e01e70)
+
 
 
 ### Product-Specific Pricing
 - **Milk** and **Bread** emerged as the most expensive items within their respective categories, with average prices peaking at 39.34 (19.88%).
 
+
+
+![image_480](https://github.com/user-attachments/assets/33716919-b0f5-4545-b6bc-a89be1062ee4)
+
+
+
 ### Quarterly Price Trends
 - The average price for most categories displayed fluctuations across the quarters, indicating seasonality in pricing.
+
+
+
+![image_480](https://github.com/user-attachments/assets/61ad6c09-5f21-4976-bf9b-fc00e7bdea75)
+
+
 
 ### Regional Price Variations
 - Regions showed distinct pricing patterns, with the **East region** generally maintaining higher average prices compared to the **West** and **South**.
 
+
+
+![image_720](https://github.com/user-attachments/assets/7c645355-482d-4ea1-adc8-d798487053f2)
+
+
+
 ### Store-Specific Pricing
 - **Store C** had the highest average prices across categories, with a consistent pricing strategy compared to the other stores.
   
-![image_480](https://github.com/user-attachments/assets/61ad6c09-5f21-4976-bf9b-fc00e7bdea75)
-![image_480](https://github.com/user-attachments/assets/33716919-b0f5-4545-b6bc-a89be1062ee4)
+
+
 
 ## Limitations
 - The analysis is based on available data which might not represent all pricing factors, such as location-specific variations and promotional events.
